@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "IDC-RJ45_connector_v1-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/IDC-RJ45_connector_v1-eagle-import.kicad_sym")(options "")(descr ""))
+)

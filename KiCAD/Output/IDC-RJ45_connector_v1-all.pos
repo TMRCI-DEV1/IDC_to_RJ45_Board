@@ -1,0 +1,9 @@
+### Module positions - created on Fri Feb  3 02:44:55 2023 ###
+### Printed by Pcbnew version (6.0.9)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                PosX       PosY       Rot  Side
+U$1       RJ45-8Z4  TE_RJ45-8Z4        141.5261  -110.5536  -90.0000  top
+X1        2510-     PAK100_2500-10     159.3061  -109.2836   90.0000  top
+X2                  TERMINAL_2P_5MM    145.3361   -95.3136  -90.0000  top
+## End
